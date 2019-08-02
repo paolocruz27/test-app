@@ -1,0 +1,10 @@
+.c-selected-items {
+    display: grid;
+    margin: 10px 0px;
+}
+.devices {
+    margin: 0 5px;
+}
+.devices:nth-child(1) {
+    font-weight: bold;
+}
